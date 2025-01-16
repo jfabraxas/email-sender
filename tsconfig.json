@@ -19,6 +19,7 @@
       }
     ],
     "paths": {
+      "@/auth.config": ["./auth.config.ts"],
       "@/*": ["./src/*"]
     }
   },
